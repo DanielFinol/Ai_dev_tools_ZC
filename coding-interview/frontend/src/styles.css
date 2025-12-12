@@ -1,0 +1,6 @@
+body { font-family: system-ui, sans-serif; margin: 0; padding: 0; }
+.app { padding: 16px; }
+header { border-bottom: 1px solid #eee; padding-bottom: 8px; margin-bottom: 12px }
+.controls { margin: 12px 0 }
+button { padding: 8px 12px; font-size: 16px }
+.editor { width: 100%; }
